@@ -43,7 +43,7 @@ A clean and responsive Todo Dashboard built as part of a frontend assignment. Fe
 
 ## Deployment
 
-Deployed on Vercel: [YOUR_DEPLOYED_LINK]
+Deployed on Vercel: https://todo-dashboard-roundtechsquare-assi.vercel.app/
 
 ## Folder Structure
 
