@@ -26,7 +26,7 @@ A clean and responsive Todo Dashboard built as part of a frontend assignment. Fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/FaizzE/todo-dashboard-roundtechsquare-assignment.git
-   cd todo-dashboard
+   cd todo-dashboard-roundtechsquare-assignment
    ```
 
 2. Install dependencies:
